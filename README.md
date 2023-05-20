@@ -50,4 +50,4 @@ etc.
 ## Credits
 
 - el Deah ( Creator Gamemode )
-- Adit ( Update Gamemode )
+- ParrellID ( Update Gamemode )
